@@ -50,8 +50,12 @@ tr {
 .footer {
   padding-top: 20px;
   text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
 
 .card {
-  width: 18rem;
+  width: 30rem;
+  margin: 1em;
 }
